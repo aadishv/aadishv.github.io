@@ -66,5 +66,8 @@
     "typescript": "^5.5.4",
     "uploadthing": "^7.7.2",
     "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/matter-js": "^0.19.8"
   }
 }
