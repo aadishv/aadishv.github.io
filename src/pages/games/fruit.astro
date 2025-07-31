@@ -1,0 +1,8 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FruitMergeGame from "@/tools/fruit/index.tsx";
+---
+
+<Layout title="Fruit Merge Game">
+  <FruitMergeGame client:only="react" />
+</Layout>
